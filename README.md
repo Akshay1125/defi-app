@@ -3,6 +3,14 @@
 ## Overview
 
 ![Sample Image](https://github.com/Akshay1125/defi-app/blob/main/Screenshot%20(177).png)
+![Sample Image](https://github.com/Akshay1125/defi-app/blob/main/Screenshot%20(179).png)
+![Sample Image](https://github.com/Akshay1125/defi-app/blob/main/Screenshot%20(178).png)
+![Sample Image](https://github.com/Akshay1125/defi-app/blob/main/Screenshot%20(180).png)
+![Sample Image](https://github.com/Akshay1125/defi-app/blob/main/Screenshot%20(181).png)
+
+
+
+
 
 This project is a decentralized finance (DeFi) lending and borrowing platform built using React.js, Solidity, Truffle, Metamask, and Ethers. It allows users to connect their Metamask wallets to the platform, borrow assets, lend assets, and keep track of their borrowing and lending activities.
 
