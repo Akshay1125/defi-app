@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import ConnectWallet from './ConnectWallet';
-import ViewBalance from './ViewBalance';
 import BorrowAsset from './BorrowAsset';
 import LendAsset from './LendAsset';
 
@@ -34,7 +33,6 @@ function App() {
     <div className="App container">
       <h1>Basic Borrowing & Lending App</h1>
       <ConnectWallet setWallet={setWallet} />
-      <ViewBalance wallet={wallet} />
       
       <BorrowAsset
         wallet={wallet}
