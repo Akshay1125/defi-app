@@ -9,9 +9,6 @@
 ![Sample Image](https://github.com/Akshay1125/defi-app/blob/main/Screenshot%20(181).png)
 
 
-
-
-
 This project is a decentralized finance (DeFi) lending and borrowing platform built using React.js, Solidity, Truffle, Metamask, Ganache and Ethers. It allows users to connect their Metamask wallets to the platform, borrow assets, lend assets, and keep track of their borrowing and lending activities.
 
 ## Features
@@ -41,6 +38,7 @@ This project is a decentralized finance (DeFi) lending and borrowing platform bu
 - Create smart contract and deploy it on other command line server using commands=> (truffle compile) & (truffle migrate).
 - Include your functions now.
 - You are good to go.
+- You can find the components code in src, CSS in public and contracts in frontend/truffle.
 
 
 ## Installation and Usage
