@@ -12,7 +12,7 @@
 
 
 
-This project is a decentralized finance (DeFi) lending and borrowing platform built using React.js, Solidity, Truffle, Metamask, and Ethers. It allows users to connect their Metamask wallets to the platform, borrow assets, lend assets, and keep track of their borrowing and lending activities.
+This project is a decentralized finance (DeFi) lending and borrowing platform built using React.js, Solidity, Truffle, Metamask, Ganache and Ethers. It allows users to connect their Metamask wallets to the platform, borrow assets, lend assets, and keep track of their borrowing and lending activities.
 
 ## Features
 
@@ -29,6 +29,19 @@ This project is a decentralized finance (DeFi) lending and borrowing platform bu
 - **Truffle:** Used to develop, compile, and deploy the Solidity smart contract.
 - **Metamask:** Integrated to enable users to connect their wallets securely.
 - **Ethers:** Used to interact with the Ethereum blockchain and the smart contract.
+- **Ganache:** Used to generate a seperate Test Network and private key for account.
+
+##Points To Remember: 
+- You will need to create react app first
+- Download Metamask Extension and create a test network Ganache UI.
+- Connect your metamask account to your frontend.
+- Install Ganache and generate private keys.
+- Use these Keys to import an account with test amount.
+- Install Truffle suite, details provided below.
+- Create smart contract and deploy it on other command line server using commands=> (truffle compile) & (truffle migrate).
+- Include your functions now.
+- You are good to go.
+
 
 ## Installation and Usage
 
