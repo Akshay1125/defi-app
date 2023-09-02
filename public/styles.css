@@ -1,8 +1,8 @@
 /* App Container */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;100;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;500&display=swap');
 
 
-body {
+body{
   background-image: url('./img/download2.jpg');
   /* background-size: cover; */
   font-family: 'Poppins', sans-serif;
